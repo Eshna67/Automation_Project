@@ -9,3 +9,6 @@
 - [x] Created a tar archive of apache2 access logs
 
 - [x] Script should run the AWS CLI command and finally Copying the archive to the s3 buket 
+
+- [x] Bookkeeping of archived files 
+- [x] Cron job setup for the script for automatic execution
